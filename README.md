@@ -3,13 +3,14 @@
 A modern task management solution built with React and Node.js, featuring task organization, progress tracking, and statistical analysis.
 
 ## 🚀 Live Demo
-- **Application**: [Task Management App](https://tm-sigma-five.vercel.app)
+- **Live Application**: [Task Management App](https://tm-sigma-five.vercel.app)
+    ( pls wait few sec after clicking the live link as well as after login to start the server )
 - **Repository**: [GitHub](https://github.com/s11saurabh/TASK_MANAGEMENT)
 -  Demo Credentials--> Email: saurabhsinghania111@gmail.com , Password : dfghj@890
 - **Demo**: [Video](https://drive.google.com/file/d/1vU6ZInki-IMKvWxvdQ9jVdYomhawc2fJ/view?usp=drive_link)
 - **Hosted**: [ Frontend ](https://tm-sigma-five.vercel.app)
 - **Hosted**: [ Backend ](https://task-management-5rxx.onrender.com/)
-- 
+  
 <img width="1468" alt="image" src="https://github.com/user-attachments/assets/12e4cfad-cbe9-4abc-8f4d-c2b952795f5e" />
 <img width="1468" alt="image" src="https://github.com/user-attachments/assets/c401b2d7-ea88-42cd-8972-10d460f3518a" />
 <img width="1469" alt="image" src="https://github.com/user-attachments/assets/7967d8fa-b958-452b-b47a-0b89b74f323d" />
